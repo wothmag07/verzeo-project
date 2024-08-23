@@ -78,7 +78,7 @@ python person_detection.py --video "path/to/input/video.mp4"
 - The script will detect people in the video and draw bounding boxes around them.
 - The image below shows an example output where multiple individuals are detected and highlighted with green bounding boxes.
 
-![Output Snippet](output.png)
+![Output Snippet](main-project/output.png)
 
 
 ### Enhancements
